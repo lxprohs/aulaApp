@@ -1,0 +1,8 @@
+{
+  "name": "aulaApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "d183c50e"
+}
